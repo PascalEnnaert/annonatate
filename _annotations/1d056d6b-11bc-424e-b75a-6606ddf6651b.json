@@ -1,0 +1,37 @@
+---
+canvas: "https://iiif.kmska.be/iiif/2/8106/canvas/1.json"
+order: 21
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Door de wereld kruipen",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-23T14:17:10.616Z",
+            "modified": "2024-04-23T14:17:13.330Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.kmska.be/iiif/2/8106/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.kmska.be/iiif/2/8106/canvas/1.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"4289.5823974609375\" cy=\"4535.763916015625\" r=\"321.1490519249762\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1d056d6b-11bc-424e-b75a-6606ddf6651b.json",
+    "motivation": "commenting"
+}
