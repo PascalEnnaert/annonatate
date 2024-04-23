@@ -1,0 +1,37 @@
+---
+canvas: "https://iiif.kmska.be/iiif/2/8106/canvas/1.json"
+order: 7
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Een hennentaster",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-23T13:35:27.701Z",
+            "modified": "2024-04-23T13:35:33.938Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.kmska.be/iiif/2/8106/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.kmska.be/iiif/2/8106/canvas/1.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2136.2606201171875\" cy=\"3072.2940673828125\" r=\"304.19289527558897\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9c0c77e-67e8-4afb-b158-4836385936f2.json",
+    "motivation": "commenting"
+}
