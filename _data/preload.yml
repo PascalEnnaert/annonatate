@@ -1,4 +1,12 @@
 images:
+- added: '2024-04-23 13:02:09.243250'
+  iiif: true
+  thumbnail: https://dam.museabrugge.be/iiif/2/public%2F6719.tif/full/full/0/default.jpg
+  title:
+  - none:
+    - Plan van Brugge
+  url: https://dam.museabrugge.be/iiif/3/6719/manifest.json
+  user: Pascal Ennaert
 - added: '2024-04-23 12:41:49.685146'
   iiif: true
   thumbnail: https://iiif.kmska.be/c/iiif/2/public@8106.tif/full/120,/0/default.jpg
