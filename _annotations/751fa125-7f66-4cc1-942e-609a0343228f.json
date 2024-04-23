@@ -1,0 +1,37 @@
+---
+canvas: "https://iiif.kmska.be/iiif/2/8106/canvas/1.json"
+order: 25
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "De grote vissen eten de kleintjes",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-23T14:19:12.280Z",
+            "modified": "2024-04-23T14:19:16.776Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.kmska.be/iiif/2/8106/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.kmska.be/iiif/2/8106/canvas/1.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"4813.35400390625\" cy=\"2331.3983154296875\" r=\"211.6217087072108\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "751fa125-7f66-4cc1-942e-609a0343228f.json",
+    "motivation": "commenting"
+}
