@@ -1,3 +1,13 @@
-images: []
+images:
+- added: '2024-04-23 12:41:49.685146'
+  iiif: true
+  thumbnail: https://iiif.kmska.be/c/iiif/2/public@8106.tif/full/120,/0/default.jpg
+  title:
+  - '@language': en
+    '@value': Proverbs
+  - '@language': nl
+    '@value': Spreekwoorden
+  url: https://iiif.kmska.be/iiif/2/8106/manifest.json
+  user: Pascal Ennaert
 settings: {}
 version: '2.1'
