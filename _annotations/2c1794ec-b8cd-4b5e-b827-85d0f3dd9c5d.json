@@ -1,0 +1,37 @@
+---
+canvas: "https://iiif.kmska.be/iiif/2/8106/canvas/1.json"
+order: 10
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Zijn kap over de haag gooien",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-23T13:36:12.811Z",
+            "modified": "2024-04-23T13:36:20.203Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.kmska.be/iiif/2/8106/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.kmska.be/iiif/2/8106/canvas/1.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"5877.06201171875\" cy=\"1683.4630126953125\" r=\"302.50604364223733\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2c1794ec-b8cd-4b5e-b827-85d0f3dd9c5d.json",
+    "motivation": "commenting"
+}
