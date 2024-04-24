@@ -1,0 +1,37 @@
+---
+canvas: "https://dam.museabrugge.be/iiif/3/6719/canvas/1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Openliggende reien tussen de poorterloge en de stadshal op de markt",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-24T09:32:52.828Z",
+            "modified": "2024-04-24T09:33:24.303Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dam.museabrugge.be/iiif/3/6719/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dam.museabrugge.be/iiif/3/6719/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"19072.83203125\" cy=\"9334.66943359375\" r=\"780.4647093633735\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f0f2a13c-3550-4b2b-9c96-5a61d24430f1.json",
+    "motivation": "commenting"
+}
