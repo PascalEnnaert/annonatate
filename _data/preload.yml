@@ -1,4 +1,14 @@
 images:
+- added: '2024-04-24 09:45:22.046845'
+  iiif: true
+  thumbnail: https://iiif.kmska.be/c/iiif/2/public@27084.tif/full/120,/0/default.jpg
+  title:
+  - '@language': en
+    '@value': The Seven Sacraments
+  - '@language': nl
+    '@value': De Zeven Sacramenten
+  url: https://iiif.kmska.be/iiif/2/27084/manifest.json
+  user: Pascal Ennaert
 - added: '2024-04-23 13:02:09.243250'
   iiif: true
   thumbnail: https://dam.museabrugge.be/iiif/2/public%2F6719.tif/full/full/0/default.jpg
