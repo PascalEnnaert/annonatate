@@ -1,0 +1,37 @@
+---
+canvas: "https://dam.museabrugge.be/iiif/3/6719/canvas/1"
+order: 9
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Er bevinden zich bleekweiden ten zuiden van Oost- en Westmeers",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-24T09:55:09.081Z",
+            "modified": "2024-04-24T09:55:30.158Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dam.museabrugge.be/iiif/3/6719/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dam.museabrugge.be/iiif/3/6719/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"26300.2509765625\" cy=\"9101.65234375\" rx=\"1404.6318359375\" ry=\"933.8525390625\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eb82a335-3b50-48aa-9ea4-8988583ae858.json",
+    "motivation": "commenting"
+}
