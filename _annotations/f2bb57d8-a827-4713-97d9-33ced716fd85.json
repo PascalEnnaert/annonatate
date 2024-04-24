@@ -1,0 +1,37 @@
+---
+canvas: "https://iiif.kmska.be/iiif/2/8106/canvas/1.json"
+order: 29
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Zijn huik in de wind hangen",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-24T09:25:58.398Z",
+            "modified": "2024-04-24T09:26:02.850Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.kmska.be/iiif/2/8106/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.kmska.be/iiif/2/8106/canvas/1.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"3605.2841796875\" cy=\"498.146484375\" r=\"316.103714788509\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f2bb57d8-a827-4713-97d9-33ced716fd85.json",
+    "motivation": "commenting"
+}
