@@ -1,0 +1,37 @@
+---
+canvas: "https://dam.museabrugge.be/iiif/3/6719/canvas/1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Een kerkje op de markt",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-24T09:33:34.733Z",
+            "modified": "2024-04-24T09:33:39.547Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dam.museabrugge.be/iiif/3/6719/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dam.museabrugge.be/iiif/3/6719/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"20091.4990234375\" cy=\"9226.70263671875\" r=\"669.3176879206205\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "14738bb7-a731-4716-b5a2-19fab7eddf0a.json",
+    "motivation": "commenting"
+}
