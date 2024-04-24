@@ -1,0 +1,37 @@
+---
+canvas: "https://dam.museabrugge.be/iiif/3/6719/canvas/1"
+order: 8
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "De Annuniatenrei is nog niet overwelfd",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-24T09:54:38.760Z",
+            "modified": "2024-04-24T09:54:46.037Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dam.museabrugge.be/iiif/3/6719/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dam.museabrugge.be/iiif/3/6719/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"13879.23779296875\" cy=\"10934.95947265625\" rx=\"713.74853515625\" ry=\"1028.41650390625\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "06fbb636-ec3b-469f-bf9a-6be0f9e8ecfe.json",
+    "motivation": "commenting"
+}
