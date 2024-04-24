@@ -1,0 +1,37 @@
+---
+canvas: "https://dam.museabrugge.be/iiif/3/6719/canvas/1"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Op de Burg staat nog een kerk, de Sint-Donaaskerk",
+            "purpose": "commenting",
+            "creator": {
+                "id": "PascalEnnaert",
+                "name": "Pascal Ennaert"
+            },
+            "created": "2024-04-24T09:51:17.184Z",
+            "modified": "2024-04-24T09:51:56.547Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dam.museabrugge.be/iiif/3/6719/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dam.museabrugge.be/iiif/3/6719/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"18917.123046875\" cy=\"8314.017822265625\" r=\"764.524286292962\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e57d21f4-d240-4f8e-9c24-a8fe58324d99.json",
+    "motivation": "commenting"
+}
